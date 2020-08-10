@@ -75,6 +75,7 @@ const GET_LANDING_PAGE = /* GraphQL */ `
     pricingBox {
       totalPrice
       numberInstallments
+      priceInstallments
       benefits
       button {
         label
